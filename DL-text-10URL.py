@@ -42,14 +42,15 @@ def sanitize_filename(url):
     return name[:50] + '.txt'
 
 URLS = [
-    "https://shizuokamokko.com/howto/422.html/",
-    "https://kamidananosato.jp/?tid=4&mode=f11&srsltid=AfmBOorL5XY-DYrTrBO12HFr30_veOvM2qo9B4IkahVxXDt5jk46S5tl",
-    "https://magazine.cainz.com/article/232484",
-    "https://www.rakuten.co.jp/auc-umeken/contents/umeken-salt-piles01/",
-    "https://www.umeken-japan.com/blog/archives/2313/?srsltid=AfmBOopSE6bn3X9PBmLjznHmoGVclsx-KoyQ_KyE19u3__Nh8hBp_eTV",
-    "https://www.cayhane.jp/shop/pages/column_inner_06.aspx",
-    "https://shizuokamokko.com/news/1233.html/",
-    "https://inspired-habits.hateblo.jp/entry/morishio-daiso"
+    "https://www.charleskeith.jp/jp/bags/workwear",
+    "https://www.nissen.co.jp/s/shoes/AC18SP103/?srsltid=AfmBOor409dNBiN6GkPXLdTcsHUImD9L6QOb8Tzg0AWAeREO10Nmrs4j",
+    "https://search.rakuten.co.jp/search/mall/%E9%80%9A%E5%8B%A4%E3%83%90%E3%83%83%E3%82%B0+%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9/",
+    "https://mitsui-shopping-park.com/ec/feature/womens-businessbag",
+    "https://voi.0101.co.jp/voi/content/01/sp/topics/column/column_245.html",
+    "https://my-best.com/6797",
+    "https://www.buyma.com/contents/work-bag/?srsltid=AfmBOoo67O75sB3khHxUdlVwjn9IjoKqFDbHb76iNXA2iORxRBADBoD_",
+    "https://zozo.jp/women-category/bag/?p_keyv=%92%CA%8B%CE&srsltid=AfmBOoq5-0GFcmTIoj6uTny8rwiNzdpEQnMPRCBfjiuQo2DQLSoEQfji",
+    "https://cooga-store.jp/c/column/ladies-bag/business-bag-brand?srsltid=AfmBOopLmSnXRkU_pqKZbuXSYPnSL1gS1drUEHCLl_Bgv_Yemh3gNUZx"
 ]
 
 def main():
