@@ -42,15 +42,12 @@ def sanitize_filename(url):
     return name[:50] + '.txt'
 
 URLS = [
-    "https://www.charleskeith.jp/jp/bags/workwear",
-    "https://www.nissen.co.jp/s/shoes/AC18SP103/?srsltid=AfmBOor409dNBiN6GkPXLdTcsHUImD9L6QOb8Tzg0AWAeREO10Nmrs4j",
-    "https://search.rakuten.co.jp/search/mall/%E9%80%9A%E5%8B%A4%E3%83%90%E3%83%83%E3%82%B0+%E3%83%AC%E3%83%87%E3%82%A3%E3%83%BC%E3%82%B9/",
-    "https://mitsui-shopping-park.com/ec/feature/womens-businessbag",
-    "https://voi.0101.co.jp/voi/content/01/sp/topics/column/column_245.html",
-    "https://my-best.com/6797",
-    "https://www.buyma.com/contents/work-bag/?srsltid=AfmBOoo67O75sB3khHxUdlVwjn9IjoKqFDbHb76iNXA2iORxRBADBoD_",
-    "https://zozo.jp/women-category/bag/?p_keyv=%92%CA%8B%CE&srsltid=AfmBOoq5-0GFcmTIoj6uTny8rwiNzdpEQnMPRCBfjiuQo2DQLSoEQfji",
-    "https://cooga-store.jp/c/column/ladies-bag/business-bag-brand?srsltid=AfmBOopLmSnXRkU_pqKZbuXSYPnSL1gS1drUEHCLl_Bgv_Yemh3gNUZx"
+    "https://www.kld-c.jp/blog/therow-expensive/",
+    "https://www.businessinsider.jp/article/2511-why-the-row-white-cotton-t-shirt-cost-brand-expensive/",
+    "https://www.therow.com/ja-jp/collections/women-handbags?srsltid=AfmBOopyo_MBJwrcmIzfnzynxyV1zdlEDmPxvfwKh62tBWqA9PgWCuFN",
+    "https://veryweb.jp/fashion/128887/",
+    "https://reclo.jp/blogs/column/what-is-therow?srsltid=AfmBOopC3a7l4raw6cXAX-8AqfU_XgG2T-DGm7LifccPVJKvUu08M-cG",
+    "https://komehyo.jp/komeru/1032"
 ]
 
 def main():
